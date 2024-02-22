@@ -13,7 +13,7 @@ public:
 	void escapar();
 	void moverse(int direccionX, int direccionY);
 private:
-string Nombre;
+
 
 };
 
